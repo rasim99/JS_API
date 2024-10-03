@@ -1,0 +1,124 @@
+{
+    "cities":  [
+        {
+            "id": 1,
+            "name": "Ankara",
+            "country": "Turkey",
+            "population": 5504025,
+            "imgUrl": "https://uo.asbu.edu.tr/sites/idari_birimler/uo.asbu.edu.tr/files/inline-images/227_0.jpg",
+            "capital": true
+        },
+        {
+            "id": 2,
+            "name": "Istanbul",
+            "country": "Turkey",
+            "population": 15462452,
+            "imgUrl": "https://cdn.britannica.com/58/93158-050-7719EB2B/view-Blue-Mosque-Istanbul-Hagia-Sophia.jpg",
+            "capital": false
+        },
+        {
+            "id": 3,
+            "name": "Paris",
+            "country": "France",
+            "population": 2140526,
+            "imgUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/03/1c/9c.jpg",
+            "capital": true
+        },
+        {
+            "id": 4,
+            "name": "Berlin",
+            "country": "Germany",
+            "population": 3644826,
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg/640px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg",
+            "capital": true
+        },
+        {
+            "id": 5,
+            "name": "London",
+            "country": "United Kingdom",
+            "population": 8982000,
+            "imgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/f5/de/london.jpg?w=1400&h=1400&s=1",
+            "capital": true
+        },
+        {
+            "id": 6,
+            "name": "Madrid",
+            "country": "Spain",
+            "population": 3223334,
+            "imgUrl": "https://www.spain.info/.content/imagenes/cabeceras-grandes/madrid/calle-gran-via-madrid-s333961043.jpg",
+            "capital": true
+        },
+        {
+            "id": 7,
+            "name": "Rome",
+            "country": "Italy",
+            "population": 2873000,
+            "imgUrl": "https://i.natgeofe.com/n/3012ffcc-7361-45f6-98b3-a36d4153f660/colosseum-daylight-rome-italy_3x2.jpg",
+            "capital": true
+        },
+        {
+            "id": 8,
+            "name": "Tokyo",
+            "country": "Japan",
+            "population": 13929286,
+            "imgUrl": "https://media.cntraveler.com/photos/63482b255e7943ad4006df0b/16:9/w_2560%2Cc_limit/tokyoGettyImages-1031467664.jpeg",
+            "capital": true
+        },
+        {
+            "id": 9,
+            "name": "Los Angeles",
+            "country": "United States",
+            "population": 3980400,
+            "imgUrl": "https://www.discoverlosangeles.com/sites/default/files/images/2021-10/losangeles-observatory-social.jpg",
+            "capital": false
+        },
+        {
+            "id": 10,
+            "name": "Chicago",
+            "country": "United States",
+            "population": 2716000,
+            "imgUrl": "https://cdn.choosechicago.com/uploads/2020/10/CC-northave-beach-aerial-1-scaled.jpg",
+            "capital": false
+        },
+        {
+            "id": 11,
+            "name": "Sydney",
+            "country": "Australia",
+            "population": 5230330,
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sydney_skyline_from_the_north_aerial_2010.jpg/800px-Sydney_skyline_from_the_north_aerial_2010.jpg",
+            "capital": false
+        },
+        {
+            "id": 12,
+            "name": "Toronto",
+            "country": "Canada",
+            "population": 2930000,
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/CC_2022-06-18_193-Pano_%28cropped%29_01.jpg/640px-CC_2022-06-18_193-Pano_%28cropped%29_01.jpg",
+            "capital": false
+        },
+        {
+            "id": 13,
+            "name": "Rio de Janeiro",
+            "country": "Brazil",
+            "population": 6748000,
+            "imgUrl": "https://www.thediscoveriesof.com/wp-content/uploads/2022/10/Rio-de-Janeiro-Brazil-shutterstock_188781878.jpg.webp",
+            "capital": false
+        },
+        {
+            "id": 14,
+            "name": "Bangkok",
+            "country": "Thailand",
+            "population": 10500000,
+            "imgUrl": "https://i0.wp.com/travelgangtok.com/blog/wp-content/uploads/2023/12/Bangkok-Thailand.jpg?resize=741%2C437&ssl=1",
+            "capital": true
+        },
+        {
+            "id": 15,
+            "name": "Cairo",
+            "country": "Egypt",
+            "population": 9500000,
+            "imgUrl": "https://images.adsttc.com/media/images/64a2/cdae/cb9c/464f/a63a/9764/large_jpg/cairo-architecture-city-guide-exploring-the-unique-architectural-blend-of-historical-and-contemporary-in-egypts-bustling-capital_23.jpg?1688391095",
+            "capital": true
+        }
+    ]
+}
