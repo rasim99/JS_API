@@ -33,3 +33,26 @@ export async function getAllData(url, endpoint) {
     }
   }
   
+  // Update data by id
+export async function updateDataById(url, endpoint, id, data) {
+  try {
+      const response = await axios.put(`${url}${endpoint}/${id}`, data);
+      console.log("STATUS CODE: ", response.status);
+      return response.data; // Return the updated data
+  } catch (error) {
+      console.error(error.message);
+      throw error; // Optional: rethrow the error if you want to handle it elsewhere
+  }
+}
+
+// Post new data
+export async function postData(url, endpoint, data) {
+  try {
+      const response = await axios.post(`${url}${endpoint}`, data);
+      console.log("STATUS CODE: ", response.status);
+      return response.data; // Return the created data
+  } catch (error) {
+      console.error("Error details:", error.response ? error.response.data : error.message);
+      throw error; // Optional: rethrow the error if you want to handle it elsewhere
+  }
+}
